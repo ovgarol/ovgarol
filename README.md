@@ -3,9 +3,9 @@
 - [google Scholar](https://scholar.google.com/citations?user=OKWEqvAAAAAJ&hl=de&oi=ao)
   
 ## Education
-| Biological Oceanography, Ph.D. | Kiel University (Germany) |
-| Water science and technology, M.Sc. | Universidad de San Carlos de Guatemala |
-| Applied Physics, B.Sc. | Universidad de San Carlos de Guatemala |
+- Biological Oceanography, Ph.D. - Kiel University (Germany) 
+- Water science and technology, M.Sc. - Universidad de San Carlos de Guatemala 
+- Applied Physics, B.Sc. - Universidad de San Carlos de Guatemala 
 
 ## Scientific publications
  - García-Oliva, O., Lemmen, C., Li, C., and Wirtz, K. (2025) Disentangling peri-urban river hypoxia *(pre-print)*. [https://arxiv.org/abs/2510.05775](https://doi.org/10.48550/arXiv.2510.05775) doi:10.48550/arXiv.2510.05775.
