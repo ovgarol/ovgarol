@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Ecosystem modeller
 <!--
 **ovgarol/ovgarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Education
+ - Biological Oceanography, Ph.D.
+ - Water science and technology, M.Sc.
+ - Applied Physics, B.Sc.
+   
+## Work experience
+  - Post-Doc
+  - Ph.D. researcher
+
+## Teaching experience
