@@ -38,7 +38,7 @@
   - Rodas-Pernillo, E., Vasquez-Moscoso, C. A., García, O.F. (2020). Dynamics of the consumption and nutrient supply of phytoplankton, dominated by Microcystis sp. (Cyanophyceae) of Lake Amatitlán *(in Spanish)*. [Ciencia, Tecnología Y Salud, 7(1)](https://revistas.usac.edu.gt/index.php/cytes/article/view/709). doi.:10.36829/63CTS.v7i1.709.
 
 ## Pre-prints and other publications
- - García-Oliva, O., and Wirtz, K. (2025) A simple model for predicting hypoxic events in a tidal estuary *(pre-print, in review)*. [Research Square rs-8288643]([https://doi.org/10.21203/rs.3.rs-8288643/v1](https://doi.org/10.21203/rs.3.rs-8288643/v1)) doi:10.21203/rs.3.rs-8288643/v1. 
+ - García-Oliva, O., and Wirtz, K. (2025) A simple model for predicting hypoxic events in a tidal estuary *(pre-print, in review)*. [Research Square rs-8288643](https://doi.org/10.21203/rs.3.rs-8288643/v1) doi:10.21203/rs.3.rs-8288643/v1. 
  - García-Oliva, O., Lemmen, C., Li, X., and Wirtz, K. (2025) Disentangling peri-urban river hypoxia *(pre-print)*. [arXiv 2510.05775](https://doi.org/10.48550/arXiv.2510.05775) doi:10.48550/arXiv.2510.05775.
  - García-Oliva, O. (2024) Detritus identification in FlowCAM using a simple binary classifier *(pre-print)*. [bioRxiv 2024.11.18.624123](https://doi.org/10.1101/2024.11.18.624123). doi:10.1101/2024.11.18.624123.  
  - Barreno Ortiz, F.M., García-Oliva, O.F., Pérez Xoquic, A. (2017) Payment for wastewater treatment services as a measure of adaptation to climate change (Panajachel, Guatemala) *(in Spanish)*. In: Cambio climático y desarrollo social con énfasis en el occidente de Guatemala (pp. 153-175). Mendez, J.J. (Ed.) FLACSO-Guatemala. ISBN: 978-9929-585-49-2.
