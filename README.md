@@ -8,9 +8,9 @@
 - Applied Physics, B.Sc. - Universidad de San Carlos de Guatemala 
 
 ## Work experience
-### Post-Doc (2024-on going) @ Helmholtz-Zentrum hereon
+### Post-Doc (2024-present) @ Helmholtz-Zentrum hereon
  - I developed biogechemical mechanistic models, e.g. [OxyPOM](https://codebase.helmholtz.cloud/dam-elbextreme/oxypom). 
- - I model extreme events (e.g., aquatic heatwaves, low oxygen, and harmful algal blooms) in the Elbe Estuary in the project [ElbeXtreme](https://www.hereon.de/institutes/carbon_cycles/global_coast/projects/116521/index.php.en).
+ - I model extreme events (e.g., aquatic heatwaves, storm surges, floods, low oxygen, and harmful algal blooms) in the Elbe Estuary in the project [ElbeXtreme](https://www.hereon.de/institutes/carbon_cycles/global_coast/projects/116521/index.php.en).
  - My current [profile](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/ecosystem_modelling/team/098789/index.php.de).
   
 ### Ph.D. researcher (2019-2023) @ Helmholtz-Zentrum hereon
@@ -30,6 +30,7 @@
  - Teaching assistance for Physics lab. - Universidad de San Carlos de Guatemala
 
 ## Scientific publications
+  - García-Oliva, O., et al. (2026) Climate change and El Niño Southern Oscillation influence on mixing regime and water quality in a deep tropical mountain lake. [Limnology and Oceanography Letters 11: e70115](https://doi.org/10.1002/lol2.70115). doi:10.1002/lol2.70115. 
   - García-Oliva, O., and Wirtz, K. (2025) Complex structure of aquatic food-webs emerges from few assembly rules. [Nature Ecology and Evolution, 9: 576–588](https://www.nature.com/articles/s41559-025-02647-1). doi:10.1038/s41559-025-02647-1. 
   - Achterberg, P., et al. (2025) Identifying and addressing the components of extreme physical-oceanographical events for improved risk management in coastal systems. [Front. Mar. Sci.](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1681652). doi:10.3389/fmars.2025.1681652.
   - García-Oliva, O., and Wirtz, K. (2022) Size-dependent and -independent prey selection of dinoflagellates. [Mar. Biol., 169, 122](https://link.springer.com/article/10.1007/s00227-022-04102-2). doi:10.1007/s00227-022-04102-2.
