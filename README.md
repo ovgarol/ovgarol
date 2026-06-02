@@ -30,6 +30,7 @@
  - Teaching assistance for Physics lab. - Universidad de San Carlos de Guatemala
 
 ## Scientific publications
+ - García-Oliva, O., and Wirtz, K. (2026) A simple model for predicting hypoxic events in a tidal estuary. [Estuaries and Coasts, 49: 120](https://doi.org/10.1007/s12237-026-01734-1) doi:10.1007/s12237-026-01734-1. 
   - García-Oliva, O., et al. (2026) Climate change and El Niño Southern Oscillation influence on mixing regime and water quality in a deep tropical mountain lake. [Limnology and Oceanography Letters 11: e70115](https://doi.org/10.1002/lol2.70115). doi:10.1002/lol2.70115. 
   - García-Oliva, O., and Wirtz, K. (2025) Complex structure of aquatic food-webs emerges from few assembly rules. [Nature Ecology and Evolution, 9: 576–588](https://www.nature.com/articles/s41559-025-02647-1). doi:10.1038/s41559-025-02647-1. 
   - Achterberg, P., et al. (2025) Identifying and addressing the components of extreme physical-oceanographical events for improved risk management in coastal systems. [Front. Mar. Sci.](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1681652). doi:10.3389/fmars.2025.1681652.
@@ -39,7 +40,7 @@
   - Rodas-Pernillo, E., Vasquez-Moscoso, C. A., García, O.F. (2020). Dynamics of the consumption and nutrient supply of phytoplankton, dominated by Microcystis sp. (Cyanophyceae) of Lake Amatitlán *(in Spanish)*. [Ciencia, Tecnología Y Salud, 7(1)](https://revistas.usac.edu.gt/index.php/cytes/article/view/709). doi.:10.36829/63CTS.v7i1.709.
 
 ## Pre-prints and other publications
- - García-Oliva, O., and Wirtz, K. (2025) A simple model for predicting hypoxic events in a tidal estuary *(pre-print, in review)*. [Research Square rs-8288643](https://doi.org/10.21203/rs.3.rs-8288643/v1) doi:10.21203/rs.3.rs-8288643/v1. 
+ - García-Oliva, O., and Lemmen, C. (2026) OxyPOM: a biogeochemical model for Oxygen and Particulate Organic Matter dynamics with detailed temperature sensitivity *(pre-print)*. [arXiv 2604.24157](https://doi.org/10.48550/arXiv.2604.24157) doi:10.48550/arXiv.2604.24157.
  - García-Oliva, O., Lemmen, C., Li, X., and Wirtz, K. (2025) Disentangling peri-urban river hypoxia *(pre-print)*. [arXiv 2510.05775](https://doi.org/10.48550/arXiv.2510.05775) doi:10.48550/arXiv.2510.05775.
  - García-Oliva, O. (2024) Detritus identification in FlowCAM using a simple binary classifier *(pre-print)*. [bioRxiv 2024.11.18.624123](https://doi.org/10.1101/2024.11.18.624123). doi:10.1101/2024.11.18.624123.  
  - Barreno Ortiz, F.M., García-Oliva, O.F., Pérez Xoquic, A. (2017) Payment for wastewater treatment services as a measure of adaptation to climate change (Panajachel, Guatemala) *(in Spanish)*. In: Cambio climático y desarrollo social con énfasis en el occidente de Guatemala (pp. 153-175). Mendez, J.J. (Ed.) FLACSO-Guatemala. ISBN: 978-9929-585-49-2.
