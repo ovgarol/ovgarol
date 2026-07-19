@@ -44,3 +44,6 @@
  - García-Oliva, O., Lemmen, C., Li, X., and Wirtz, K. (2025) Disentangling peri-urban river hypoxia *(pre-print)*. [arXiv 2510.05775](https://doi.org/10.48550/arXiv.2510.05775) doi:10.48550/arXiv.2510.05775.
  - García-Oliva, O. (2024) Detritus identification in FlowCAM using a simple binary classifier *(pre-print)*. [bioRxiv 2024.11.18.624123](https://doi.org/10.1101/2024.11.18.624123). doi:10.1101/2024.11.18.624123.  
  - Barreno Ortiz, F.M., García-Oliva, O.F., Pérez Xoquic, A. (2017) Payment for wastewater treatment services as a measure of adaptation to climate change (Panajachel, Guatemala) *(in Spanish)*. In: Cambio climático y desarrollo social con énfasis en el occidente de Guatemala (pp. 153-175). Mendez, J.J. (Ed.) FLACSO-Guatemala. ISBN: 978-9929-585-49-2.
+
+## Outreach
+ - Interview in [Robotitus](https://www.youtube.com/watch?v=F4VAO1KkwR4&list=PL5d6U-GS1eTJNkcH4vOcprIu2sWJI2IWl).
